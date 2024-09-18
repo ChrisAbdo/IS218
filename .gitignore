@@ -1,1 +1,4 @@
-# This is the start of my example .gitignore file
+*.sw*
+.coverage
+.pytest_cache
+*__pycache__
